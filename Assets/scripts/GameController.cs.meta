@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2c586e8b0bef14a51aceff695d8b98ab
+timeCreated: 1521308931
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - meteor1: {fileID: 1977804606896682, guid: 50ecc1ac21bd44d61a2fd6a3b1b2a15b, type: 2}
+  - meteor2: {fileID: 1124853462703246, guid: 90e15e09f10ac49fd8113a475aa2991e, type: 2}
+  - parent: {instanceID: 0}
+  - endScreen: {instanceID: 0}
+  - timeObject: {instanceID: 0}
+  - changeDeviceBtn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
